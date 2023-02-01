@@ -24,6 +24,7 @@
  noteOn(0, 31, 60);
  
  */
+#include <SoftwareSerial.h>
 
 SoftwareSerial mySerial(2, 3); // RX, TX
 
