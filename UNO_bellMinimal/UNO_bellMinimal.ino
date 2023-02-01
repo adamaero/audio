@@ -63,7 +63,7 @@ void loop()
       //Turn off the note with a given off/release velocity
       noteOff(0, 98, 15000);
 
-  delay(30);
+  delay(3000);
 
 }
 
